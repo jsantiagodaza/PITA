@@ -1,0 +1,9 @@
+1|Carlos|Perez|123|Planta|Asociado|120|40|30|25000|0|0|0|1
+2|Ana|Lopez|456|Ocasional|N/A|0|0|0|0|0|0|3.5e+06|1
+3|Luis|Rios|789|Catedratico|N/A|0|0|0|0|12|45000|0|1
+4|Carlos|Perez|123|Planta|Asociado|120|40|30|25000|0|0|0|1
+5|Ana|Lopez|456|Ocasional|N/A|0|0|0|0|0|0|3.5e+06|1
+6|Luis|Rios|789|Catedratico|N/A|0|0|0|0|12|45000|0|1
+7|Carlos|Perez|123|Planta|Asociado|120|40|30|25000|0|0|0|1
+8|Ana|Lopez|456|Ocasional|N/A|0|0|0|0|0|0|3.5e+06|1
+9|Luis|Rios|789|Catedratico|N/A|0|0|0|0|12|45000|0|1
